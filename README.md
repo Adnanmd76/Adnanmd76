@@ -1,6 +1,6 @@
-[LinkedIn](https://linkedin.com/in/yourprofile) → Your actual LinkedIn URL
-[Email](mailto:adnan@example.com) → Your email
-[Twitter](https://twitter.com/yourusername) → Your Twitter handle
+[LinkedIn](https://pk.linkedin.com/in/mohammad-adnan-219855267) → Your actual LinkedIn URL
+[Email](mailto:adnanmd76@gmail.com) → Your email
+[Twitter](https://twitter.com/DailyTrackMe) → Your Twitter handle
 [Portfolio](https://yourportfolio.com) → Your portfolio URL## Hi there 👋
 
 <!--
